@@ -1,0 +1,20 @@
+{
+  "code123":{
+    "yuwen":"100",
+    "shuxue":"120",
+    "yingyu":"130",
+    "qita":"140"
+  },
+  "code124":{
+    "yuwen":"130",
+    "shuxue":"140",
+    "yingyu":"120",
+    "qita":"110"
+  },
+  "code125":{
+    "yuwen":"120",
+    "shuxue":"120",
+    "yingyu":"130",
+    "qita":"150"
+  }
+}
